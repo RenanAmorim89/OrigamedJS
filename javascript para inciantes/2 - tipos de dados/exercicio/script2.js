@@ -11,7 +11,7 @@ let idade = 33;
 // e outra com seu sobrenome e some as mesmas
 let nome = "Renan";
 let sobrenome = "Amorim";
-let nomeCompleto = nome + sobrenome;
+let nomeCompleto = `${nome} ${sobrenome}`;
 console.log(nomeCompleto);
 // Coloque a seguinte frase em uma variável: It's time
 let frase = "It's time";
