@@ -11,6 +11,9 @@ dl {
   padding: 0px;
 }
 
+html.textoMaior {
+  font-size: 150%;
+}
 img {
   display: block;
   max-width: 100%;
